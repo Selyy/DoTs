@@ -1,2 +1,2 @@
-damage-over-time-config
+Config for $HOME
 =======================
